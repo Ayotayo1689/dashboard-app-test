@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/Ayotayo1689/dashboard-app-test.git
+cd dashboard-app-test
 ```
 
 ### Install Dependencies
